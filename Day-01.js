@@ -14,3 +14,8 @@ console.log(arr[i]);
 var str = "guvi geek";
 var ajees = str.split(" ");
 console.log(ajees)
+
+
+// Cpnversion of Array to string
+const elements = ['Fire', 'Air', 'Water',32,33];
+console.log(elements.join(" "))
